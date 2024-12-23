@@ -16,7 +16,7 @@ The project uses the `scikit-learn` library to build and train the model, while 
 You can install the necessary libraries using `pip`:
 
 ```bash
-pip install pandas scikit-learn
+pip install -r requirments.txt
 ```
 
 ## Dataset
